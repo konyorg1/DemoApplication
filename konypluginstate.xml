@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="pluginstate">
+	<item value="false" key="newApp.apppropmodified"/>
+	<item value="true" key="newApp.j2mebuild"/>
+	<item value="true" key="newApp.balckberrybuild"/>
+	<item value="true" key="newApp.winmobilebuild"/>
 </section>
