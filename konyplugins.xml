@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <plugins>
-    <pluginInfo version-no="7.0.0.Beta1_v201511091648" plugin-id="com.pat.tool.keditor.KEditorPlugin" plugin-name="Kony Studio"/>
+    <pluginInfo  version-no="7.0.0.Beta1_v201511091648" plugin-id="com.pat.tool.keditor.KEditorPlugin" plugin-name="Kony Studio"/>
     <pluginInfo version-no="7.0.0.Beta1_v201511091548" plugin-name="Third Party Jars Plug-in"/>
     <pluginInfo version-no="7.0.0.Beta1_v201511091548" plugin-id="com.pat.soapui.SoapUIPlugin" plugin-name="Soap UI Plugin"/>
     <pluginInfo version-no="7.0.0.Beta1_v201511091545" plugin-name="Kony Codegenerator"/>
