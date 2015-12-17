@@ -1,0 +1,27 @@
+function skinsInit() {
+    CopyslForm0616222c26b9b41 = "CopyslForm0616222c26b9b41";
+    CopyslForm0a5cf9e55dcce4f = "CopyslForm0a5cf9e55dcce4f";
+    CopyslForm0b7992540972d4b = "CopyslForm0b7992540972d4b";
+    CopyslLabel0094c23fdfb464d = "CopyslLabel0094c23fdfb464d";
+    CopyslLabel064010dad8c4a46 = "CopyslLabel064010dad8c4a46";
+    CopyslLabel0baee3d4dfd684e = "CopyslLabel0baee3d4dfd684e";
+    CopyslLabel0dca58dce69ce49 = "CopyslLabel0dca58dce69ce49";
+    CopyslTextBox057b275d809d948 = "CopyslTextBox057b275d809d948";
+    CopyslTextBox0e8bf7236ef7748 = "CopyslTextBox0e8bf7236ef7748";
+    slButtonGlossBlue = "slButtonGlossBlue";
+    slButtonGlossBlue089550f4774354d = "slButtonGlossBlue089550f4774354d";
+    slButtonGlossRed = "slButtonGlossRed";
+    slComboBox = "slComboBox";
+    slDynamicNotificationForm = "slDynamicNotificationForm";
+    slFbox = "slFbox";
+    slForm = "slForm";
+    slHbox = "slHbox";
+    slImage = "slImage";
+    slImageGallery = "slImageGallery";
+    slLabel = "slLabel";
+    slPopup = "slPopup";
+    slStaticNotificationForm = "slStaticNotificationForm";
+    slTextBox = "slTextBox";
+    slTitleBar = "slTitleBar";
+    slWatchForm = "slWatchForm";
+};
