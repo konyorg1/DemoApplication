@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s51a7c3ada6d47448b5b704279b30928",
+    "_src_": "rajani.png",
+    "_top_": {
+        "type": "string",
+        "value": "31dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "72dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "Home",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "Image0caf2bfb5bf8241",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "effe106b65724a26ababb5d48e0b4a95",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer0ec0e58ce713942",
+    "pf": "Home",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}
