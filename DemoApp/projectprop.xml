@@ -462,5 +462,6 @@
     <attributes name="androidenablejsbindings" value="false"/>
     <attributes name="camerasettings" value=""/>
     <attributes name="pathprefixkey" value=""/>
+    <attributes name="build" value="debug"/>
     <attributes name="defaultlocalekey" value=""/>
 </properties>

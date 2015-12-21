@@ -217,7 +217,7 @@ function appmenuseq() {
 
 function callAppMenu() {
     var appMenu = [
-        ["appmenuitemid1", "Item 1", "option1.png", appmenuseq,
+        ["appmenuitemid1", "Item 1", "rajani.png", appmenuseq,
         {}],
         ["appmenuitemid2", "Item 2", "option2.png", appmenuseq,
         {}],

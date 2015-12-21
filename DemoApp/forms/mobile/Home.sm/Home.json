@@ -21,7 +21,10 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "Segment030c5f0609d4843"
+        "FlexContainer0ec0e58ce713942",
+        "FlexContainer02e39c22b68184c",
+        "Label0084ffb70152445",
+        "CopyLabel000052adb031a43"
     ],
     "containerweight": 100,
     "currentLocale": null,

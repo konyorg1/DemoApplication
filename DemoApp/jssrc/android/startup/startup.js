@@ -8,7 +8,7 @@ var appConfig = {
     serverIp: "10.10.30.157",
     serverPort: "80",
     secureServerPort: "443",
-    isDebug: false,
+    isDebug: true,
     middlewareContext: "middleware",
     isMFApp: false,
     eventTypes: [],
@@ -61,3 +61,6 @@ function onSuccessSDKCallBack() {
 kony.application.setApplicationMode(constants.APPLICATION_MODE_NATIVE);
 //If default locale is specified. This is set even before any other app life cycle event is called.
 loadResources();
+// If you wish to debug Application Initialization events, now is the time to
+// place breakpoints.
+debugger;
